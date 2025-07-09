@@ -1,6 +1,15 @@
+.homepage {
+    color: #415A77; 
+}
+
 #introduction1 {
     font-family: "Kosugi";
-    top: 55px;
-    right: 65px;
     font-size: 128px;
+    color: #E0E1DD; 
+}
+
+#introduction2 {
+    font-family: "Kosugi";
+    font-size: 128px;
+    color: #E0E1DD; 
 }
